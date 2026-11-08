@@ -1,0 +1,49 @@
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:20px;
+    gap:10px;
+}
+.empty{
+    display:flex;
+    gap:20px;
+    color:black
+
+}
+.list{
+    display:flex;
+    color:blue;
+    align-items:center;
+    
+}
+.btn{
+    color:green;
+}
+
+
+.products{
+    display:grid;
+    grid-template-columns:repeat(3,1fr);
+    gap:20px;
+    padding:20px;
+}
+.items{
+    background-color:lightblue;
+    text-align:center;
+    padding:20px;
+}
+
+.clg{
+    display:grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap:20px;
+    padding:20px;
+}
+.images{
+    background-color:rgb(146, 49, 171);
+    text-align:center;
+    gap:20px;
+    padding:20px;
+   
+}

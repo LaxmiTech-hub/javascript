@@ -1,0 +1,60 @@
+body{
+    padding:20px;
+}
+.nature{
+    max-width:800px;
+    margin:0 auto;
+}
+img{
+    max-width:100%;
+    height:auto;
+    display:block;
+}
+.cards{
+    display:flex;
+    gap:20px;
+    padding:50px;
+    display:grid;
+    color:blue;
+    
+
+}
+.1{
+    display:block;
+    display:flex;
+    flex-direction:column;
+    color:green;
+    background-color:lightgreen;
+}
+.container{
+    width:100%;
+    padding:20px;
+    background-color:lightblue;
+}
+.box{
+    width:100%;
+    padding:20px;
+    height:100px;
+    text-align:center;
+    background-color:lightgreen;
+    justify-content:center;
+    display:flex;
+    gap:20px;
+}
+.laxmi{
+    width:100%;
+    padding:20px;
+    height:100px;
+    text-align:center;
+    background-color:lightgreen;
+    justify-content:center;
+    display:flex;
+    gap:20px;
+}
+.x1{
+    width:100%;
+    padding:20px;
+    height:100px;
+    text-align:center;
+    background-color:lightblue; 
+}
